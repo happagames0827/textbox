@@ -1,2 +1,3 @@
-# textbox
-textbox
+＃textbox＆htmlクラフト
+テキストボックスとhtmlの練習
+。
